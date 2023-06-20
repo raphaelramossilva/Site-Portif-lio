@@ -17,11 +17,20 @@
     margin: -10px;
   }
 
+  h6 {
+    font-size: 32px;
+    text-align: center;
+  }
+
   p.card {
     font-size: 36px;
     margin: 12px;
     text-align: center;
     max-width: 90%;
+  }
+
+  a {
+    font-size: 40px;
   }
 
   .content-container {
@@ -74,7 +83,7 @@
     flex-direction: column-reverse;
     align-items: center;
     justify-content: center;
-    margin-top: 150px;
+    margin-top: 200px;
   }
 
   .hero-info-image {
@@ -111,7 +120,6 @@
   .section-portifolio-grid {
     row-gap: 36px;
     grid-template-columns: auto auto;
-    justify-content: space-between;
     margin-top: 40px;
   }
 
@@ -135,8 +143,31 @@
     height: auto;
   }
 
+  .section-experiences {
+    padding-top: 60px;
+    padding-bottom: 20px;
+  }
+
   .section-experiences-card {
-    width: 90vw;
+    width: 100%;
+    height: 350px;
+    margin-top: 50px;
+  }
+
+  .section-experiences-card-title {
+    font-size: 54px;
+  }
+
+  .section-experiences-card-subtitle {
+    font-size: 40px;
+  }
+
+  .section-experiences-card-text {
+    font-size: 36px;
+  }
+
+  .section-contact {
+    padding-bottom: 60px;
   }
 
   .footer-content {
