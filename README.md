@@ -1,9 +1,9 @@
-#Introduction
+# Introduction
 
-Tis is a project to start the studies about HTML, CSS and JS.
+This is a project to start the studies about HTML, CSS and JS.
 The main goal is create a website with my main professional information.
 
-##Main concpts applied
+## Main concepts applied
 
 - Flexbox
 - DOM manipulation
