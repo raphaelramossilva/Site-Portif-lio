@@ -13,10 +13,10 @@ https://raphaelramossilva.github.io/Site-Portifolio/
 
 ## Main concepts applied
 
-- Flexbox
-- DOM manipulation
-- Events
-- CSS Media Query
+- Flexbox;
+- DOM manipulation;
+- Events;
+- CSS Media Query;
 
 ## Instructions to run:
 
